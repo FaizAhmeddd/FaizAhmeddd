@@ -1,4 +1,8 @@
-# 🚀 Faizan Ahmed | Computer Vision Engineer & AI Visionary
+To make your README more visually appealing and include language icons, I’ve updated it by adding icons for programming languages, frameworks, and tools using shields.io badges. Additionally, I’ve restructured it slightly to enhance readability and attractiveness. Here’s the improved version:
+
+---
+
+# Faizan Ahmed | Computer Vision Engineer | ML Enthusiast
 
 [![GitHub](https://img.shields.io/badge/GitHub-FaizAhmeddd-171515?style=for-the-badge&logo=github)](https://github.com/FaizAhmeddd)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-faizan--ahmed-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/faizan-ahmed-77918b220)
@@ -8,9 +12,9 @@
 
 ## 🧑‍💻 **Who Am I?**
 
-I’m **Faizan Ahmed**, a **Computer Vision Engineer** and **AI Enthusiast** with a passion for leveraging the power of **AI/ML** to craft cutting-edge solutions that shape the future of automation and technology. I excel in designing **scalable** and **high-impact** machine learning applications, using **Deep Learning** and **Computer Vision** to solve real-world problems.
+I’m **Faizan Ahmed**, a **Computer Vision Engineer** and **AI Enthusiast** passionate about harnessing the power of **AI/ML** to craft **cutting-edge solutions** that shape the future of automation and technology. I specialize in developing **scalable** and **high-impact** machine learning applications using **Deep Learning** and **Computer Vision**.
 
-🚀 Currently at **NSAi (USA)**, I lead initiatives to create AI-driven systems that set new benchmarks in accuracy, performance, and reliability.
+Currently at **NSAi (USA)**, I lead initiatives to create **AI-driven systems** that set new benchmarks in **accuracy, performance,** and **reliability**.
 
 If you’re looking for a partner in building futuristic AI solutions—let’s connect and innovate together!
 
@@ -18,13 +22,45 @@ If you’re looking for a partner in building futuristic AI solutions—let’s 
 
 ## 🧬 **Core Competencies**
 
-- **Languages**: Python, C++
-- **AI & Deep Learning Frameworks**: PyTorch, TensorFlow, OpenCV, Scikit-Learn, Albumentations
-- **Web Frameworks**: FastAPI, Flask, Django, Streamlit
-- **Natural Language Processing**: NLTK, TensorFlow, Langchain
-- **Databases**: MongoDB, SQL, Pymongo
-- **DevOps & Tools**: Docker, Git, Postman, Roboflow, Makesense, Anaconda, Colab, Pycharm, VS Code
-- **Specialties**: Data Preprocessing, Computer Vision Systems, API Development, Automated Data Annotation
+### **Languages & Frameworks**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Albumentations](https://img.shields.io/badge/Albumentations-000000?style=for-the-badge&logo=albumentations&logoColor=white)
+
+### **Web Frameworks**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### **Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### **DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Roboflow](https://img.shields.io/badge/Roboflow-4A90E2?style=for-the-badge&logo=roboflow&logoColor=white)
+
+---
+
+## 🔥 **GitHub Streak**
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FaizAhmeddd&theme=radical&hide_border=true)](https://github.com/FaizAhmeddd)
+
+</div>
 
 ---
 
@@ -67,22 +103,7 @@ _A deep learning model designed to detect medical anomalies with **98.8% accurac
 _Developed a real-time chatbot powered by **TensorFlow** for intent classification, integrated with a **Streamlit GUI** for seamless interaction._  
 **Tech Stack**: Python, TensorFlow, NLTK, Streamlit
 
----
 
-## 🧠 **Key Technologies & Tools**
-
-| **Core Tech**             | **Frameworks & Tools**                   |
-|---------------------------|------------------------------------------|
-| Python, C++               | PyTorch, TensorFlow, OpenCV, FastAPI     |
-| MongoDB, SQL              | Flask, Django, Streamlit                 |
-| Docker, Git, Postman       | PyQt, Pandas, NumPy, Matplotlib          |
-| NLP, LLMs, Scikit-Learn    | Langchain, Roboflow, Makesense           |
-
----
-
-## 🔥 **GitHub Streak**
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FaizAhmeddd&theme=radical&hide_border=true)](https://github.com/FaizAhmeddd)
 
 ---
 
@@ -94,3 +115,4 @@ I’m always excited to connect with like-minded professionals or collaborate on
 ---
 
 **“Innovating with purpose—transforming complex challenges into scalable AI solutions that drive the future forward.”**
+
