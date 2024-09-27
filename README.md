@@ -1,6 +1,4 @@
-To make your README more visually appealing and include language icons, I’ve updated it by adding icons for programming languages, frameworks, and tools using shields.io badges. Additionally, I’ve restructured it slightly to enhance readability and attractiveness. Here’s the improved version:
 
----
 
 # Faizan Ahmed | Computer Vision Engineer | ML Enthusiast
 
