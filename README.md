@@ -45,6 +45,16 @@ Let's connect and innovate!
 
 ---
 
+## 🔥 **GitHub Streak**
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FaizAhmeddd&theme=radical&hide_border=true)](https://github.com/FaizAhmeddd)
+
+</div>
+
+---
+
 ## 🚀 **Professional Experience**
 
 ### **Computer Vision Engineer (R&D) | NSAi (USA)**  
@@ -72,10 +82,6 @@ Let's connect and innovate!
 📌 _A system for automated **cheating detection** in online assessments._  
 🔹 **Tech Stack**: PyTorch, OpenCV, AWS, PostgreSQL  
 
-- Real-time **identity verification** using **facial embeddings**.
-- Implemented **gaze tracking** to monitor **eye movements** for suspicious behavior.
-- Integrated **AWS Emotion Recognition API** for **real-time sentiment analysis**.
-
 🔗 [GitHub Repo](https://github.com/FaizAhmeddd/Facial-Recognition-and-Gaze-Tracking-Based-Cheating-Detection-in-Online-Interviews)
 
 ---
@@ -84,10 +90,6 @@ Let's connect and innovate!
 📌 _AI-powered resume screening tool to match candidates with job descriptions._  
 🔹 **Tech Stack**: OpenAI GPT-4, PyPDF2, FastAPI  
 
-- AI-based **resume-job matching**, improving screening efficiency by **80%**.
-- Implemented **custom scoring algorithms** for **experience & skills evaluation**.
-- Developed **resume parser** to extract structured data from **1000+ resumes**.
-
 🔗 [GitHub Repo](https://github.com/FaizAhmeddd/Resume-matcher-with-job-description)
 
 ---
@@ -95,9 +97,6 @@ Let's connect and innovate!
 ### 🩺 **Medical Image Segmentation using Nested U-Net**
 📌 _Advanced medical imaging segmentation model using deep learning._  
 🔹 **Tech Stack**: PyTorch, TensorFlow, OpenCV, NumPy  
-
-- **Achieved 98.8% accuracy** in **medical anomaly detection**.
-- Implemented **BCEDiceLoss, LovaszHingeLoss**, and other **custom loss functions**.
 
 🔗 [GitHub Repo](https://github.com/FaizAhmeddd/Nested-U-Net-Architecture-for-medical-imgae-segmentation)
 
