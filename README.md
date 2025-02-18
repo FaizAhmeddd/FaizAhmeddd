@@ -1,116 +1,124 @@
-
-
-# Faizan Ahmed | Computer Vision Engineer | ML Enthusiast
+# Faizan Ahmed | AI & Computer Vision Engineer | ML Enthusiast
 
 [![GitHub](https://img.shields.io/badge/GitHub-FaizAhmeddd-171515?style=for-the-badge&logo=github)](https://github.com/FaizAhmeddd)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-faizan--ahmed-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/faizan-ahmed-77918b220)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-faizan--ahmed-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/faizan-ahmed-ai-developer/)
 [![Email](https://img.shields.io/badge/Email-contactfaizan001@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:contactfaizan001@gmail.com)
 
 ---
 
-## 🧑‍💻 **Who Am I?**
+## 🧑‍💻 **About Me**
 
-I’m **Faizan Ahmed**, a **Computer Vision Engineer** and **AI Enthusiast** passionate about harnessing the power of **AI/ML** to craft **cutting-edge solutions** that shape the future of automation and technology. I specialize in developing **scalable** and **high-impact** machine learning applications using **Deep Learning** and **Computer Vision**.
+I am **Faizan Ahmed**, an **AI & Computer Vision Engineer** with expertise in developing scalable **deep learning models** and **AI-powered applications**. My work focuses on **computer vision**, **generative AI**, and **backend system integration**.
 
-Currently at **NSAi (USA)**, I lead initiatives to create **AI-driven systems** that set new benchmarks in **accuracy, performance,** and **reliability**.
+Currently working at **NSAi (USA)**, I specialize in **real-time AI-driven applications**, from **ANPR systems** to **driver monitoring models**. My experience includes **LLMs, OCR systems, and image segmentation**, along with optimizing model deployment pipelines.
 
-If you’re looking for a partner in building futuristic AI solutions—let’s connect and innovate together!
+Let's connect and innovate!
 
 ---
 
-## 🧬 **Core Competencies**
+## 🛠 **Technical Expertise**
 
-### **Languages & Frameworks**
-
+### **Languages & Tools**
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+
+### **Deep Learning & Computer Vision**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Albumentations](https://img.shields.io/badge/Albumentations-000000?style=for-the-badge&logo=albumentations&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=YOLO&logoColor=black)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-F7931E?style=for-the-badge&logo=huggingface&logoColor=white)
 
-### **Web Frameworks**
-
+### **Backend & Deployment**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-### **Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### **DevOps & Tools**
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### **Development & Data Labeling Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Roboflow](https://img.shields.io/badge/Roboflow-4A90E2?style=for-the-badge&logo=roboflow&logoColor=white)
+![CVAT](https://img.shields.io/badge/CVAT-FF6C37?style=for-the-badge&logo=cvat&logoColor=white)
 
 ---
 
-## 🔥 **GitHub Streak**
+## 🚀 **Professional Experience**
 
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FaizAhmeddd&theme=radical&hide_border=true)](https://github.com/FaizAhmeddd)
+### **Computer Vision Engineer (R&D) | NSAi (USA)**  
+📍 _Feb 2024 - Present_
 
-</div>
+- **ANPR System**: Developed a **real-time Automatic Number Plate Recognition (ANPR)** system with **92% accuracy** using **YOLOv8 & Tesseract OCR**.
+- **Face Recognition & Tracking**: Built a **98% accurate** recognition system with **DLIB**, deployed via **FastAPI**.
+- **AI for Road Safety**: Trained a **YOLO model** for **traffic sign detection** in **autonomous driving applications**.
+- **Driver Monitoring System**: Created a **fatigue & distraction detection model**, supporting **real-time alerts** for unsafe driving.
+- **Model Deployment**: Implemented **Docker-based API architecture** with **MongoDB for scalable AI deployment**.
+- **Facial Recognition UI**: Designed a **user-friendly PyQt-based UI** for real-time facial recognition.
 
----
+### **Database Management Intern | Poltio**  
+📍 _Jan 2023 - Mar 2023_
 
-## 🏆 **Certifications & Achievements**
-
-- **Google**: Foundations of User Experience (UX) Design  
-- **Coursera**: Aerial Image Segmentation with PyTorch  
-- **FreeCodeCamp**: Machine Learning with Python  
-- **Tableau**: Data Visualization  
-- **WordPress**: Create a Blog for Your Business
-
----
-
-## 🌟 **Work Experience**
-
-### 🔍 **Computer Vision Engineer (R&D) | NSAi (USA)**  
-_February 2024 - Present_
-
-- Engineered a highly accurate **Automatic Number Plate Recognition** (ANPR) system with **92% precision**, using **YOLO** and **OCR**.
-- Developed a robust **Face Recognition** algorithm achieving **95% accuracy** via **DLIB** models, deployed using **FastAPI**.
-- Integrated **Dockerized systems**, optimizing API efficiency and enabling scalable AI deployment pipelines.
-- Automated **data annotation** and preprocessing, streamlining workflows and cutting manual effort by **40%**.
-
-### 🛠 **Database Management Intern | Poltio**  
-_January 2022 - March 2022_
-
-- Devised and implemented database integrity strategies to optimize system performance.
-- Enhanced database query efficiency, leading to faster response times.
-- Administered backup/recovery protocols to ensure robust data reliability and security.
+- Optimized SQL queries for faster data retrieval.
+- Assisted in automating data validation workflows.
+- Developed a **data pipeline** to handle **survey & marketing data storage**.
 
 ---
 
-## 🚀 **Project Highlights**
+## 🎯 **Project Highlights**
 
-### 🩺 **Medical Image Segmentation Using Nested U-Net**  
-_A deep learning model designed to detect medical anomalies with **98.8% accuracy** through advanced segmentation techniques._  
-**Tech Stack**: PyTorch, TensorFlow, OpenCV, NumPy, Albumentations
+### 🔎 **Facial Recognition & Gaze Tracking for Online Interviews**
+📌 _A system for automated **cheating detection** in online assessments._  
+🔹 **Tech Stack**: PyTorch, OpenCV, AWS, PostgreSQL  
 
-### 🤖 **AI E-commerce Chatbot**  
-_Developed a real-time chatbot powered by **TensorFlow** for intent classification, integrated with a **Streamlit GUI** for seamless interaction._  
-**Tech Stack**: Python, TensorFlow, NLTK, Streamlit
+- Real-time **identity verification** using **facial embeddings**.
+- Implemented **gaze tracking** to monitor **eye movements** for suspicious behavior.
+- Integrated **AWS Emotion Recognition API** for **real-time sentiment analysis**.
 
-
-
----
-
-## 🔗 **Let's Collaborate!**
-
-I’m always excited to connect with like-minded professionals or collaborate on groundbreaking AI projects. Let’s build something extraordinary!  
-📧 Email: [contactfaizan001@gmail.com](mailto:contactfaizan001@gmail.com)
+🔗 [GitHub Repo](https://github.com/FaizAhmeddd/Facial-Recognition-and-Gaze-Tracking-Based-Cheating-Detection-in-Online-Interviews)
 
 ---
 
-**“Innovating with purpose—transforming complex challenges into scalable AI solutions that drive the future forward.”**
+### 📄 **AI Resume Matcher**
+📌 _AI-powered resume screening tool to match candidates with job descriptions._  
+🔹 **Tech Stack**: OpenAI GPT-4, PyPDF2, FastAPI  
 
+- AI-based **resume-job matching**, improving screening efficiency by **80%**.
+- Implemented **custom scoring algorithms** for **experience & skills evaluation**.
+- Developed **resume parser** to extract structured data from **1000+ resumes**.
+
+🔗 [GitHub Repo](https://github.com/FaizAhmeddd/Resume-matcher-with-job-description)
+
+---
+
+### 🩺 **Medical Image Segmentation using Nested U-Net**
+📌 _Advanced medical imaging segmentation model using deep learning._  
+🔹 **Tech Stack**: PyTorch, TensorFlow, OpenCV, NumPy  
+
+- **Achieved 98.8% accuracy** in **medical anomaly detection**.
+- Implemented **BCEDiceLoss, LovaszHingeLoss**, and other **custom loss functions**.
+
+🔗 [GitHub Repo](https://github.com/FaizAhmeddd/Nested-U-Net-Architecture-for-medical-imgae-segmentation)
+
+---
+
+## 📜 **Certifications**
+
+- **Machine Learning with Python** (FreeCodeCamp)  
+- **Foundations of User Experience (UX) Design** (Google)  
+- **Aerial Image Segmentation with PyTorch** (Coursera)  
+- **WordPress for Business Blogging**  
+
+---
+
+## 🔗 **Let's Connect!**
+💡 Passionate about **AI, Computer Vision, and Deep Learning**? Let’s collaborate on **exciting AI projects!**  
+
+📧 Email: [contactfaizan001@gmail.com](mailto:contactfaizan001@gmail.com)  
+🌍 GitHub: [github.com/FaizAhmeddd](https://github.com/FaizAhmeddd)  
+🔗 LinkedIn: [linkedin.com/in/faizan-ahmed-ai-developer](https://linkedin.com/in/faizan-ahmed-ai-developer)  
+
+---
+
+**_"Innovating with AI—shaping the future through intelligent automation!"_**
