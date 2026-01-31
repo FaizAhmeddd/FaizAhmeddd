@@ -57,8 +57,10 @@ Let's connect and innovate!
 
 ## 🚀 **Professional Experience**
 
+
+
 ### **Computer Vision Engineer (R&D) | NSAi (USA)**  
-📍 _Feb 2024 - Present_
+📍 _Feb 2024 - APRIL 2025_
 
 - **ANPR System**: Developed a **real-time Automatic Number Plate Recognition (ANPR)** system with **92% accuracy** using **YOLOv8 & Tesseract OCR**.
 - **Face Recognition & Tracking**: Built a **98% accurate** recognition system with **DLIB**, deployed via **FastAPI**.
